@@ -1,0 +1,8 @@
+[
+{"id":1,"res":"Role/flammer","lockMoney":100,"tips":"flammer","type":2,"hitEff":"Eff/1","atk":5},
+{"id":2,"res":"Role/gunner","lockMoney":300,"tips":"gunner","type":2,"hitEff":"Eff/1","atk":5},
+{"id":3,"res":"Role/infantry","lockMoney":200,"tips":"infantry","type":2,"hitEff":"Eff/1","atk":5},
+{"id":4,"res":"Role/medic","lockMoney":400,"tips":"medic","type":2,"hitEff":"Eff/1","atk":5},
+{"id":5,"res":"Role/officer","lockMoney":0,"tips":"officer","type":2,"hitEff":"Eff/1","atk":5},
+{"id":6,"res":"Role/sniper","lockMoney":0,"tips":"sniper","type":1,"hitEff":"Eff/1","atk":5}
+]

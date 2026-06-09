@@ -1,0 +1,5 @@
+[
+{"id":1,"imgRes":"SceneImgs/GameScene1","name":"Mad Forest","sceneName":"GameScene1","tips":"Mad Forest","towerHp":100,"money":200},
+{"id":2,"imgRes":"SceneImgs/GameScene2","name":"Frozen Snowfield","sceneName":"GameScene2","tips":"Frozen Snowfield","towerHp":100,"money":200},
+{"id":3,"imgRes":"SceneImgs/GameScene3","name":"Lava upland","sceneName":"GameScene3","tips":"Lava upland","towerHp":100,"money":200}
+]

@@ -1,0 +1,12 @@
+[
+{"id":1,"res":"Monsters/Z1","animator":"Animator/Monster/Aggresive","atk":5,"moveSpeed":7,"roundSpeed":100,"hp":10,"atkOffst":0.8},
+{"id":2,"res":"Monsters/Z2","animator":"Animator/Monster/Broken","atk":5,"moveSpeed":5,"roundSpeed":50,"hp":10,"atkOffst":1.2},
+{"id":3,"res":"Monsters/Z3","animator":"Animator/Monster/Calm","atk":5,"moveSpeed":3,"roundSpeed":60,"hp":10,"atkOffst":1},
+{"id":4,"res":"Monsters/Z4","animator":"Animator/Monster/Crawl","atk":5,"moveSpeed":2,"roundSpeed":150,"hp":10,"atkOffst":0.5},
+{"id":5,"res":"Monsters/Z2","animator":"Animator/Monster/Aggresive","atk":5,"moveSpeed":7,"roundSpeed":100,"hp":10,"atkOffst":0.8},
+{"id":6,"res":"Monsters/Z3","animator":"Animator/Monster/Crawl","atk":5,"moveSpeed":2,"roundSpeed":100,"hp":10,"atkOffst":0.8},
+{"id":7,"res":"Monsters/Z1","animator":"Animator/Monster/Broken","atk":5,"moveSpeed":5,"roundSpeed":100,"hp":10,"atkOffst":0.8},
+{"id":8,"res":"Monsters/Z4","animator":"Animator/Monster/Calm","atk":5,"moveSpeed":3,"roundSpeed":100,"hp":10,"atkOffst":0.8},
+{"id":9,"res":"Monsters/Z2","animator":"Animator/Monster/Crawl","atk":5,"moveSpeed":2,"roundSpeed":100,"hp":10,"atkOffst":0.8},
+{"id":10,"res":"Monsters/Z3","animator":"Animator/Monster/Aggresive","atk":5,"moveSpeed":7,"roundSpeed":100,"hp":10,"atkOffst":0.8}
+]

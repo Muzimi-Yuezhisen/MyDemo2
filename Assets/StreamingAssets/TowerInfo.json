@@ -1,0 +1,11 @@
+[
+{"id":1,"name":"Cannon1","money":200,"atk":5,"atkRange":8,"offsetTime":1,"next":2,"imgRes":"TowerPic/tower1-1","res":"Tower/1-1","type":1,"eff":"Eff/Fire1"},
+{"id":2,"name":"Cannon2","money":300,"atk":10,"atkRange":8,"offsetTime":1,"next":3,"imgRes":"TowerPic/tower1-2","res":"Tower/1-2","type":1,"eff":"Eff/Fire1"},
+{"id":3,"name":"Cannon3","money":400,"atk":20,"atkRange":8,"offsetTime":1,"next":0,"imgRes":"TowerPic/tower1-3","res":"Tower/1-3","type":1,"eff":"Eff/Fire1"},
+{"id":4,"name":"Gatling1","money":200,"atk":2,"atkRange":8,"offsetTime":0.2,"next":5,"imgRes":"TowerPic/tower2-1","res":"Tower/2-1","type":1,"eff":"Eff/Fire1"},
+{"id":5,"name":"Gatling2","money":300,"atk":4,"atkRange":8,"offsetTime":0.2,"next":6,"imgRes":"TowerPic/tower2-2","res":"Tower/2-2","type":1,"eff":"Eff/Fire1"},
+{"id":6,"name":"Gatling3","money":400,"atk":6,"atkRange":8,"offsetTime":0.2,"next":0,"imgRes":"TowerPic/tower2-3","res":"Tower/2-3","type":1,"eff":"Eff/Fire1"},
+{"id":7,"name":"Crystal1","money":200,"atk":3,"atkRange":8,"offsetTime":2,"next":8,"imgRes":"TowerPic/tower3-1","res":"Tower/3-1","type":2,"eff":"Eff/Fire2"},
+{"id":8,"name":"Crystal2","money":300,"atk":6,"atkRange":8,"offsetTime":2,"next":9,"imgRes":"TowerPic/tower3-2","res":"Tower/3-2","type":2,"eff":"Eff/Fire2"},
+{"id":9,"name":"Crystal3","money":400,"atk":9,"atkRange":8,"offsetTime":2,"next":0,"imgRes":"TowerPic/tower3-3","res":"Tower/3-3","type":2,"eff":"Eff/Fire2"}
+]

@@ -1,0 +1,4 @@
+repository "Zombies@tj_drop_out_field_master@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
